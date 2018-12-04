@@ -6,4 +6,3 @@ Integrantes:
 William Kanashiro
 Rhebeca
 Murilo
-Joffer
